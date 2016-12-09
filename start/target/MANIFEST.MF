@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: yaoyao
+Implementation-Vendor-Id: com.test.boot
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_25
+Main-Class: ${start-class}
+
